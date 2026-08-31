@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Hi,+I'm+MD+Saiduzzaman;Mobile+App+Developer;Computer+Science+Undergrad" alt="Typing SVG" />
 </div>
 
-I am a third-year Computer Science student (CGPA: 3.94/4.0) graduating in August 2026. I prioritize hands-on project implementation over pure theory, specializing in building clean, scalable cross-platform applications.
+I am a third-year Computer Science student (CGPA: 3.94/4.0) graduating in August 2028. I prioritize hands-on project implementation over pure theory, specializing in building clean, scalable cross-platform applications.
 
 ### ⚡ Tech Stack & Focus
 * **Languages:** Dart, C++
