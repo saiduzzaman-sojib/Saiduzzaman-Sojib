@@ -14,11 +14,11 @@
 
 I am a Computer Science undergraduate focused on **Flutter and cross-platform mobile application development**. I enjoy building clean, maintainable applications while continuously strengthening my problem-solving skills through **Data Structures & Algorithms**.
 
-- 📱 Building cross-platform applications with **Flutter & Dart**
-- 🧠 Practicing **Data Structures & Algorithms with C++**
-- 🔌 Working with **REST APIs & Firebase**
-- 🚀 Focused on writing clean, scalable, and maintainable code
-- 📚 Continuously learning through hands-on projects and problem solving
+- Building cross-platform applications with **Flutter & Dart**
+- Practicing **Data Structures & Algorithms with C++**
+- Working with **REST APIs & Firebase**
+- Focused on writing clean, scalable, and maintainable code
+- Continuously learning through hands-on projects and problem solving
 
 ### ⚡ Tech Stack
 
@@ -37,7 +37,7 @@ I am a Computer Science undergraduate focused on **Flutter and cross-platform mo
 
 > Building reliable cross-platform mobile applications with Flutter while improving algorithmic problem-solving and code efficiency through C++ and DSA.
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |:--|:--|:--|
